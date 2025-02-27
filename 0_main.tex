@@ -2,7 +2,12 @@
 
 \usepackage{enumitem}  % for the leftmargin option
 \usepackage{etaremune}  % reverse enumerate for papers, etc.
-\usepackage[hidelinks]{hyperref}  %  for hyperlinks
+\usepackage[
+    colorlinks=true, 
+    linkcolor=black, % TOC
+    urlcolor=blue, 
+    citecolor=blue
+]{hyperref}  %  for hyperlinks
 
 % putting in citations via a bib file with bold names
 \usepackage[
@@ -14,12 +19,12 @@
 	abbreviate=false
   ]{biblatex}
   
-  \DeclareNameAlias{author}{last-first}
- \addbibresource{NLaws.bib}
- % for excluding specific entries from printbibliography:
- \DeclareBibliographyCategory{fullcited}
+\DeclareNameAlias{author}{last-first}
+\addbibresource{NLaws.bib}
+% for excluding specific entries from printbibliography:
+\DeclareBibliographyCategory{fullcited}
 \newcommand{\mybibexclude}[1]{\addtocategory{fullcited}{#1}}
-
+\DeclareFieldFormat{title}{\iffieldundef{url}{#1}{\href{\thefield{url}}{\color{blue}#1}}}
 
 
 \title{\Huge \textbf{Curriculum Vitae\\Nicholas D. Laws, Ph.D.} }

@@ -49,17 +49,9 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Electric Power Systems Research}
-      \field{title}{Valuing distributed energy resources for non-wires alternatives}
+      \field{title}{\href{https://www.sciencedirect.com/science/article/pii/S0378779624004073}{Valuing distributed energy resources for non-wires alternatives}}
       \field{volume}{234}
       \field{year}{2024}
-      \field{pages}{110521}
-      \range{pages}{1}
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0378779624004073
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0378779624004073
-      \endverb
     \endentry
     \entry{laws2022linearizing}{article}{}
       \name{author}{2}{}{%
@@ -87,11 +79,9 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Transactions on Power Systems}
       \field{number}{1}
-      \field{title}{Linearizing bilinear products of shadow prices and dispatch variables in bilevel problems for optimal power system planning and operations}
+      \field{title}{\href{https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9729553}{Linearizing bilinear products of shadow prices and dispatch variables in bilevel problems for optimal power system planning and operations}}
       \field{volume}{38}
       \field{year}{2022}
-      \field{pages}{668\bibrangedash 680}
-      \range{pages}{13}
     \endentry
     \entry{mishra2021computational}{article}{}
       \name{author}{10}{}{%
@@ -160,8 +150,6 @@
       \field{journaltitle}{Energy Systems}
       \field{title}{Computational framework for behind-the-meter DER techno-economic modeling and optimization: REopt Lite}
       \field{year}{2021}
-      \field{pages}{1\bibrangedash 29}
-      \range{pages}{29}
       \verb{urlraw}
       \verb https://arxiv.org/pdf/2008.05873
       \endverb
@@ -213,8 +201,6 @@
       \field{title}{Solar-plus-storage economics: What works where, and why?}
       \field{volume}{32}
       \field{year}{2019}
-      \field{pages}{28\bibrangedash 46}
-      \range{pages}{19}
       \verb{urlraw}
       \verb https://www.sciencedirect.com/science/article/am/pii/S1040619018302744
       \endverb
@@ -265,8 +251,6 @@
       \field{title}{Impacts of valuing resilience on cost-optimal PV and storage systems for commercial buildings}
       \field{volume}{127}
       \field{year}{2018}
-      \field{pages}{896\bibrangedash 909}
-      \range{pages}{14}
       \verb{urlraw}
       \verb https://www.sciencedirect.com/science/article/am/pii/S0960148118305305
       \endverb
@@ -338,8 +322,6 @@
       \field{title}{Quantifying and monetizing renewable energy resiliency}
       \field{volume}{10}
       \field{year}{2018}
-      \field{pages}{933}
-      \range{pages}{1}
       \verb{urlraw}
       \verb https://www.mdpi.com/2071-1050/10/4/933/pdf
       \endverb
