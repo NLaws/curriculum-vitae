@@ -1,0 +1,33 @@
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.gz
+*.out
+*.toc
+
+
+# glossaries
+*.acn
+*.acr
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.lzo
+*.lzs
+*.slg
+*.slo
+*.sls
+
+
+# Makeindex log files
+*.ilg
+
+
+# bibliography
+*.bcf
+*.blg
+*.run.xml
+
+**.DS_Store

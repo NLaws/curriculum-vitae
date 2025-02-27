@@ -1,0 +1,70 @@
+\documentclass[a4paper,12pt]{report}
+
+\usepackage{enumitem}  % for the leftmargin option
+\usepackage{etaremune}  % reverse enumerate for papers, etc.
+\usepackage[hidelinks]{hyperref}  %  for hyperlinks
+
+% putting in citations via a bib file with bold names
+\usepackage[
+    backend=biber,
+    style=numeric,
+	sorting=none,
+	maxbibnames=99,
+	maxcitenames=99,
+	abbreviate=false
+  ]{biblatex}
+  
+  \DeclareNameAlias{author}{last-first}
+ \addbibresource{NLaws.bib}
+ % for excluding specific entries from printbibliography:
+ \DeclareBibliographyCategory{fullcited}
+\newcommand{\mybibexclude}[1]{\addtocategory{fullcited}{#1}}
+
+
+
+\title{\Huge \textbf{Curriculum Vitae\\Nicholas D. Laws, Ph.D.} }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\maketitle
+
+\tableofcontents
+
+\section*{Professional Experience}
+\addcontentsline{toc}{section}{\protect\numberline{}Professional Experience}  % Add to ToC with hyperlink
+\begin{itemize}[leftmargin=*]
+    \item Director of Modeling and Analytics, IdeaSmiths LLC, 2024--present
+    \item Senior Power Systems Optimization Engineer, Camus Energy, 2022--present
+    \item Research Engineer, National Renewable Energy Laboratory, 2017--2022
+    \item Graduate Research Assistant, Webber Energy Group, UT Austin, 2018--2023
+    \item Graduate Research Assistant, Thayer School of Engineering, Dartmouth College, 2014-2016
+    \item Mountain, Climbing, and Ski Guide, Aspen Alpine Guides, 2013-2014
+    \item Mountain Guide, International Mountain Guides, 2011-2014
+    \item Commodity Buyer, Valley Lumber, 2007-2011
+    \item Construction Manager, Eldorado Climbing Walls, 2006-2007
+\end{itemize}
+
+
+\section*{Education}
+\addcontentsline{toc}{section}{\protect\numberline{}Education}  % Add to ToC with hyperlink
+\begin{itemize}[leftmargin=*]
+    \item Ph.D. Mechanical Engineering, The University of Texas at Austin, 2023
+    \item M.S. Engineering Sciences, Thayer School of Engineering Dartmouth College, 2016
+    \item B.S. Aerospace Engineering, Boston University, 2005
+\end{itemize}
+
+
+\section*{Peer-Reviewed Journal Articles}
+\addcontentsline{toc}{section}{\protect\numberline{}Peer-Reviewed Journal Articles}  % Add to ToC with hyperlink
+\begin{etaremune}
+    \item \fullcite{laws2023der4nwa}\mybibexclude{laws2023der4nwa}
+    \item \fullcite{laws2022linearizing}\mybibexclude{laws2022linearizing}
+	\item \fullcite{mishra2021computational}\mybibexclude{mishra2021computational}
+	\item \fullcite{mclaren2019solar}\mybibexclude{mclaren2019solar}
+	\item \fullcite{laws2018impacts}\mybibexclude{laws2018impacts}
+	\item \fullcite{anderson2018quantify}\mybibexclude{anderson2018quantify}
+\end{etaremune}
+
+\printbibliography[notcategory=fullcited]
+\end{document}
