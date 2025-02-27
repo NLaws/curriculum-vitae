@@ -22,7 +22,7 @@
     \entry{laws2023der4nwa}{article}{}
       \name{author}{3}{}{%
         {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
-           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D.}},
+           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
            familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
         {{hash=8672d0b559fd14e0f326bc7605fb6f46}{%
            family={Chen},
@@ -56,7 +56,7 @@
     \entry{laws2022linearizing}{article}{}
       \name{author}{2}{}{%
         {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
-           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D.}},
+           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
            familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
         {{hash=30657aa2a4f2cf4ef2587c3da13aff8d}{%
            family={Hanasusanto},
@@ -96,7 +96,7 @@
            given={Josiah},
            giveni={J\bibinitperiod}}}%
         {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
-           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D.}},
+           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
            familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
         {{hash=13f78cffa354fc08e657ad73811a3d16}{%
            family={Cutler},
@@ -165,7 +165,7 @@
            given={Joyce},
            giveni={J\bibinitperiod}}}%
         {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
-           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D.}},
+           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
            familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
         {{hash=390f56b46fd10e92d591802aef4a4258}{%
            family={Anderson},
@@ -211,7 +211,7 @@
     \entry{laws2018impacts}{article}{}
       \name{author}{5}{}{%
         {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
-           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D.}},
+           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
            familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
         {{hash=390f56b46fd10e92d591802aef4a4258}{%
            family={Anderson},
@@ -266,7 +266,7 @@
            given={Kate},
            giveni={K\bibinitperiod}}}%
         {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
-           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D.}},
+           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
            familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
         {{hash=6d5ab7c8ac64786afabfd4dfbe3747eb}{%
            family={Marr},
@@ -328,6 +328,415 @@
       \verb{url}
       \verb https://www.mdpi.com/2071-1050/10/4/933/pdf
       \endverb
+    \endentry
+    \entry{laws2017utility}{article}{}
+      \name{author}{5}{}{%
+        {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
+           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
+           familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=073d200fa6e4b084a20d787f63d3606c}{%
+           family={Epps},
+           familyi={E\bibinitperiod},
+           given={Brenden\bibnamedelima P},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=9195fb1ca1edcadf754e2ebf67261473}{%
+           family={Peterson},
+           familyi={P\bibinitperiod},
+           given={Steven\bibnamedelima O},
+           giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=939506c7bf18bac58877b9813920b507}{%
+           family={Laser},
+           familyi={L\bibinitperiod},
+           given={Mark\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=77b7f2b271a53a5ba1b7540b65928739}{%
+           family={Wanjiru},
+           familyi={W\bibinitperiod},
+           given={G\bibnamedelima Kamau},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e87fb14b9520d59781dca6c36dc142c6}
+      \strng{fullhash}{e87fb14b9520d59781dca6c36dc142c6}
+      \strng{bibnamehash}{e87fb14b9520d59781dca6c36dc142c6}
+      \strng{authorbibnamehash}{e87fb14b9520d59781dca6c36dc142c6}
+      \strng{authornamehash}{e87fb14b9520d59781dca6c36dc142c6}
+      \strng{authorfullhash}{e87fb14b9520d59781dca6c36dc142c6}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied energy}
+      \field{title}{On the utility death spiral and the impact of utility rate structures on the adoption of residential solar photovoltaics and energy storage}
+      \field{volume}{185}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0306261916315732
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0306261916315732
+      \endverb
+    \endentry
+    \entry{laws2016hydrokinetic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
+           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
+           familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=073d200fa6e4b084a20d787f63d3606c}{%
+           family={Epps},
+           familyi={E\bibinitperiod},
+           given={Brenden\bibnamedelima P},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pergamon}%
+      }
+      \strng{namehash}{5d103d6cd972ae05acdad74b67a0dc86}
+      \strng{fullhash}{5d103d6cd972ae05acdad74b67a0dc86}
+      \strng{bibnamehash}{5d103d6cd972ae05acdad74b67a0dc86}
+      \strng{authorbibnamehash}{5d103d6cd972ae05acdad74b67a0dc86}
+      \strng{authornamehash}{5d103d6cd972ae05acdad74b67a0dc86}
+      \strng{authorfullhash}{5d103d6cd972ae05acdad74b67a0dc86}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
+      \field{title}{Hydrokinetic energy conversion: Technology, research, and outlook}
+      \field{volume}{57}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1364032115015725
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1364032115015725
+      \endverb
+    \endentry
+    \entry{gasper2023conf}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=1b1ec292da6bf3c0e17fa40897b9f60f}{%
+           family={Gasper},
+           familyi={G\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
+           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
+           familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=b370dea34e0db5b06072ce2d9c22b08d}{%
+           family={Rathod},
+           familyi={R\bibinitperiod},
+           given={Bhavesh},
+           giveni={B\bibinitperiod}}}%
+        {{hash=4a499a87bae85bafc8eee3597738bd18}{%
+           family={Olis},
+           familyi={O\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bd7e7e8de996d11566a49fc225c7b13f}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Kandler},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c442360b5784ba732257880fa45ff76d}{%
+           family={Thakkar},
+           familyi={T\bibinitperiod},
+           given={Foram},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA}%
+      }
+      \strng{namehash}{045a294d6d8895d203acb65fbb804f1b}
+      \strng{fullhash}{045a294d6d8895d203acb65fbb804f1b}
+      \strng{bibnamehash}{045a294d6d8895d203acb65fbb804f1b}
+      \strng{authorbibnamehash}{045a294d6d8895d203acb65fbb804f1b}
+      \strng{authornamehash}{045a294d6d8895d203acb65fbb804f1b}
+      \strng{authorfullhash}{045a294d6d8895d203acb65fbb804f1b}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{243rd Electrochemical Society Meeting}
+      \field{title}{Optimization of Energy Storage System Economics and Controls by Incorporating Battery Degradation Costs in REopt}
+      \field{year}{2023}
+    \endentry
+    \entry{mirletz2023impacts}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=dd93219dabee6c786afd5e4299ac0e59}{%
+           family={Mirletz},
+           familyi={M\bibinitperiod},
+           given={Brian\bibnamedelima T},
+           giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
+           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
+           familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{5159cbe6edc34c89958322463a1137bc}
+      \strng{fullhash}{5159cbe6edc34c89958322463a1137bc}
+      \strng{bibnamehash}{5159cbe6edc34c89958322463a1137bc}
+      \strng{authorbibnamehash}{5159cbe6edc34c89958322463a1137bc}
+      \strng{authornamehash}{5159cbe6edc34c89958322463a1137bc}
+      \strng{authorfullhash}{5159cbe6edc34c89958322463a1137bc}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2023 IEEE 50th Photovoltaic Specialists Conference (PVSC)}
+      \field{title}{\href{https://www.nrel.gov/docs/fy23osti/86194.pdf}{Impacts of Dispatch Strategies and Forecast Errors on the Economics of Behind-the-Meter PV-Battery Systems}}
+      \field{year}{2023}
+    \endentry
+    \entry{laws2017singularity}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
+           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
+           familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=96f94c81048e7a305a885b042c00ce79}{%
+           family={Epps},
+           familyi={E\bibinitperiod},
+           given={Brenden},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5aa0899ac3f749dbdd86042ec8d8c176}{%
+           family={Medina},
+           familyi={M\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+        {{hash=226fad3c8ab1af53c3603c554ffcff0f}{%
+           family={Ol},
+           familyi={O\bibinitperiod},
+           given={Michael\bibnamedelima V},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{0788376242cfbdfddae397fbf7cb7d15}
+      \strng{fullhash}{0788376242cfbdfddae397fbf7cb7d15}
+      \strng{bibnamehash}{0788376242cfbdfddae397fbf7cb7d15}
+      \strng{authorbibnamehash}{0788376242cfbdfddae397fbf7cb7d15}
+      \strng{authornamehash}{0788376242cfbdfddae397fbf7cb7d15}
+      \strng{authorfullhash}{0788376242cfbdfddae397fbf7cb7d15}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{55th AIAA Aerospace Sciences Meeting}
+      \field{title}{Singularity methods for modeling airfoil flows with dynamic stall and fast flap deflections}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://arc.aiaa.org/doi/abs/10.2514/6.2017-0095
+      \endverb
+      \verb{url}
+      \verb https://arc.aiaa.org/doi/abs/10.2514/6.2017-0095
+      \endverb
+    \endentry
+    \entry{laws2018naesco}{report}{}
+      \name{author}{1}{}{%
+        {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
+           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
+           familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {National Renewable Energy Lab.(NREL), Golden, CO (United States)}%
+      }
+      \strng{namehash}{b30a9bc9e2fd3666a1a566d5f2dd1694}
+      \strng{fullhash}{b30a9bc9e2fd3666a1a566d5f2dd1694}
+      \strng{bibnamehash}{b30a9bc9e2fd3666a1a566d5f2dd1694}
+      \strng{authorbibnamehash}{b30a9bc9e2fd3666a1a566d5f2dd1694}
+      \strng{authornamehash}{b30a9bc9e2fd3666a1a566d5f2dd1694}
+      \strng{authorfullhash}{b30a9bc9e2fd3666a1a566d5f2dd1694}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{note}{Presented to National Association of Energy Service Companies, Milwaukee, WI}
+      \field{title}{When Solar Plus Storage Make Sense}
+      \field{type}{techreport}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.osti.gov/servlets/purl/1458716
+      \endverb
+      \verb{url}
+      \verb https://www.osti.gov/servlets/purl/1458716
+      \endverb
+    \endentry
+    \entry{laws2023stoch}{report}{}
+      \name{author}{8}{}{%
+        {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
+           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
+           familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=e58c811d0b9b64194d93482a53947186}{%
+           family={Cutler},
+           familyi={C\bibinitperiod},
+           given={Dylan\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=6d879c8d377690aff89be68374307a36}{%
+           family={Dunham},
+           familyi={D\bibinitperiod},
+           given={Hallie},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f7ba0bd7c0f8c52bc72200b01a1bdfee}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5886c46bff33e270aa37729c05574a86}{%
+           family={Inman},
+           familyi={I\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1068bc3628d5cfaf5fab440a54c731f9}{%
+           family={Granger},
+           familyi={G\bibinitperiod},
+           given={Nikita},
+           giveni={N\bibinitperiod}}}%
+        {{hash=41564cdd795115167aee4935a6d75411}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod}}}%
+        {{hash=1c98a54404f9ef0ab07aaf71aa620620}{%
+           family={Chalenski},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {National Renewable Energy Laboratory (NREL)}%
+      }
+      \strng{namehash}{67531b443cfa12672aaf48435dde7b7e}
+      \strng{fullhash}{67531b443cfa12672aaf48435dde7b7e}
+      \strng{bibnamehash}{67531b443cfa12672aaf48435dde7b7e}
+      \strng{authorbibnamehash}{67531b443cfa12672aaf48435dde7b7e}
+      \strng{authornamehash}{67531b443cfa12672aaf48435dde7b7e}
+      \strng{authorfullhash}{67531b443cfa12672aaf48435dde7b7e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Stochastic Price Generation for Evaluating Wholesale Electricity Market Bidding Strategies}
+      \field{type}{techreport}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.nrel.gov/docs/fy23osti/82005.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.nrel.gov/docs/fy23osti/82005.pdf
+      \endverb
+    \endentry
+    \entry{murphy2020adapting}{report}{}
+      \name{author}{10}{}{%
+        {{hash=7de50c33549f6af79e5a7fa3eb672195}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Caitlin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f9075bffac87b1620feb29708fbae001}{%
+           family={Hotchkiss},
+           familyi={H\bibinitperiod},
+           given={Elizabeth\bibnamedelima L},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=5cf8e70bd50b2c3425ba981dd01b62bf}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Katherine\bibnamedelima H},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=2529228b6d2ec59e9fff4d375743785f}{%
+           family={Barrows},
+           familyi={B\bibinitperiod},
+           given={Clayton\bibnamedelima P},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=bc48d34b559e4f9ede64f942be37621f}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Stuart\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=cc25a98f01d2dd48758e2da2bd98af1f}{%
+           family={Dalvi},
+           familyi={D\bibinitperiod},
+           given={Sourabh},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
+           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
+           familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=8eb24bbf423de6498457aad24169a5e4}{%
+           family={Maguire},
+           familyi={M\bibinitperiod},
+           given={Jeffrey\bibnamedelima B},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=8200459ef74afe951714fc6dc457639b}{%
+           family={Stephen},
+           familyi={S\bibinitperiod},
+           given={Gordon\bibnamedelima W},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=3377c17ef0e16510d3322c5a4d9f5793}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Eric\bibnamedelima J},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {National Renewable Energy Lab.(NREL), Golden, CO (United States)}%
+      }
+      \strng{namehash}{b2e84e023f2d1913d8a5f96102c9619d}
+      \strng{fullhash}{b2e84e023f2d1913d8a5f96102c9619d}
+      \strng{bibnamehash}{b2e84e023f2d1913d8a5f96102c9619d}
+      \strng{authorbibnamehash}{b2e84e023f2d1913d8a5f96102c9619d}
+      \strng{authornamehash}{b2e84e023f2d1913d8a5f96102c9619d}
+      \strng{authorfullhash}{b2e84e023f2d1913d8a5f96102c9619d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Adapting Existing Energy Planning, Simulation, and Operational Models for Resilience Analysis}
+      \field{type}{techreport}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.osti.gov/servlets/purl/1602705
+      \endverb
+      \verb{url}
+      \verb https://www.osti.gov/servlets/purl/1602705
+      \endverb
+    \endentry
+    \entry{mclaren2018valuing}{report}{}
+      \name{author}{4}{}{%
+        {{hash=4ed0e5164d57a09d9db812903b9aea1f}{%
+           family={McLaren},
+           familyi={M\bibinitperiod},
+           given={Joyce\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d636629b28733f0552c1fc14a5ce4cdc}{%
+           family={Mullendore},
+           familyi={M\bibinitperiod},
+           given={Seth},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
+           family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
+           familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=5cf8e70bd50b2c3425ba981dd01b62bf}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Katherine\bibnamedelima H},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {National Renewable Energy Lab.(NREL), Golden, CO (United States)}%
+      }
+      \strng{namehash}{8d9a16dca5b4778568eb401401af3c24}
+      \strng{fullhash}{8d9a16dca5b4778568eb401401af3c24}
+      \strng{bibnamehash}{8d9a16dca5b4778568eb401401af3c24}
+      \strng{authorbibnamehash}{8d9a16dca5b4778568eb401401af3c24}
+      \strng{authornamehash}{8d9a16dca5b4778568eb401401af3c24}
+      \strng{authorfullhash}{8d9a16dca5b4778568eb401401af3c24}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Valuing the Resilience Provided by Solar and Battery Energy Storage Systems}
+      \field{type}{techreport}
+      \field{year}{2018}
     \endentry
   \enddatalist
 \endrefsection
