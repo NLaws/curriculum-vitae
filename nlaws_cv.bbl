@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{none/global//global/global}
-    \entry{laws2023der4nwa}{article}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{laws2023der4nwa}{article}{}{}
       \name{author}{3}{}{%
         {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
            family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
@@ -40,10 +40,12 @@
       }
       \strng{namehash}{23c0e7d97706dc1ae3926c535809644a}
       \strng{fullhash}{23c0e7d97706dc1ae3926c535809644a}
+      \strng{fullhashraw}{23c0e7d97706dc1ae3926c535809644a}
       \strng{bibnamehash}{23c0e7d97706dc1ae3926c535809644a}
       \strng{authorbibnamehash}{23c0e7d97706dc1ae3926c535809644a}
       \strng{authornamehash}{23c0e7d97706dc1ae3926c535809644a}
       \strng{authorfullhash}{23c0e7d97706dc1ae3926c535809644a}
+      \strng{authorfullhashraw}{23c0e7d97706dc1ae3926c535809644a}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -53,7 +55,7 @@
       \field{volume}{234}
       \field{year}{2024}
     \endentry
-    \entry{laws2022linearizing}{article}{}
+    \entry{laws2022linearizing}{article}{}{}
       \name{author}{2}{}{%
         {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
            family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
@@ -69,10 +71,12 @@
       }
       \strng{namehash}{418a86782d617df7a8cf042fa20c6fea}
       \strng{fullhash}{418a86782d617df7a8cf042fa20c6fea}
+      \strng{fullhashraw}{418a86782d617df7a8cf042fa20c6fea}
       \strng{bibnamehash}{418a86782d617df7a8cf042fa20c6fea}
       \strng{authorbibnamehash}{418a86782d617df7a8cf042fa20c6fea}
       \strng{authornamehash}{418a86782d617df7a8cf042fa20c6fea}
       \strng{authorfullhash}{418a86782d617df7a8cf042fa20c6fea}
+      \strng{authorfullhashraw}{418a86782d617df7a8cf042fa20c6fea}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -83,7 +87,7 @@
       \field{volume}{38}
       \field{year}{2022}
     \endentry
-    \entry{mishra2021computational}{article}{}
+    \entry{mishra2021computational}{article}{}{}
       \name{author}{10}{}{%
         {{hash=15b77791323ad7c206dee0e009c3c5ed}{%
            family={Mishra},
@@ -139,10 +143,12 @@
       }
       \strng{namehash}{c9eef3730da879b9465038e1ca5454d2}
       \strng{fullhash}{c9eef3730da879b9465038e1ca5454d2}
+      \strng{fullhashraw}{c9eef3730da879b9465038e1ca5454d2}
       \strng{bibnamehash}{c9eef3730da879b9465038e1ca5454d2}
       \strng{authorbibnamehash}{c9eef3730da879b9465038e1ca5454d2}
       \strng{authornamehash}{c9eef3730da879b9465038e1ca5454d2}
       \strng{authorfullhash}{c9eef3730da879b9465038e1ca5454d2}
+      \strng{authorfullhashraw}{c9eef3730da879b9465038e1ca5454d2}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -157,7 +163,7 @@
       \verb https://arxiv.org/pdf/2008.05873
       \endverb
     \endentry
-    \entry{mclaren2019solar}{article}{}
+    \entry{mclaren2019solar}{article}{}{}
       \name{author}{5}{}{%
         {{hash=0c03c55b2c43ed36d375186da7dec595}{%
            family={McLaren},
@@ -188,10 +194,12 @@
       }
       \strng{namehash}{ffdc2a35fe2604e34a67aec867a434c7}
       \strng{fullhash}{ffdc2a35fe2604e34a67aec867a434c7}
+      \strng{fullhashraw}{ffdc2a35fe2604e34a67aec867a434c7}
       \strng{bibnamehash}{ffdc2a35fe2604e34a67aec867a434c7}
       \strng{authorbibnamehash}{ffdc2a35fe2604e34a67aec867a434c7}
       \strng{authornamehash}{ffdc2a35fe2604e34a67aec867a434c7}
       \strng{authorfullhash}{ffdc2a35fe2604e34a67aec867a434c7}
+      \strng{authorfullhashraw}{ffdc2a35fe2604e34a67aec867a434c7}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -208,7 +216,7 @@
       \verb https://www.sciencedirect.com/science/article/am/pii/S1040619018302744
       \endverb
     \endentry
-    \entry{laws2018impacts}{article}{}
+    \entry{laws2018impacts}{article}{}{}
       \name{author}{5}{}{%
         {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
            family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
@@ -239,10 +247,12 @@
       }
       \strng{namehash}{be778a32b3bad6dcdeef8bd329f01864}
       \strng{fullhash}{be778a32b3bad6dcdeef8bd329f01864}
+      \strng{fullhashraw}{be778a32b3bad6dcdeef8bd329f01864}
       \strng{bibnamehash}{be778a32b3bad6dcdeef8bd329f01864}
       \strng{authorbibnamehash}{be778a32b3bad6dcdeef8bd329f01864}
       \strng{authornamehash}{be778a32b3bad6dcdeef8bd329f01864}
       \strng{authorfullhash}{be778a32b3bad6dcdeef8bd329f01864}
+      \strng{authorfullhashraw}{be778a32b3bad6dcdeef8bd329f01864}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
@@ -258,7 +268,7 @@
       \verb https://www.sciencedirect.com/science/article/am/pii/S0960148118305305
       \endverb
     \endentry
-    \entry{anderson2018quantify}{article}{}
+    \entry{anderson2018quantify}{article}{}{}
       \name{author}{9}{}{%
         {{hash=390f56b46fd10e92d591802aef4a4258}{%
            family={Anderson},
@@ -309,10 +319,12 @@
       }
       \strng{namehash}{2580df858d92caba8116e19cb632a425}
       \strng{fullhash}{2580df858d92caba8116e19cb632a425}
+      \strng{fullhashraw}{2580df858d92caba8116e19cb632a425}
       \strng{bibnamehash}{2580df858d92caba8116e19cb632a425}
       \strng{authorbibnamehash}{2580df858d92caba8116e19cb632a425}
       \strng{authornamehash}{2580df858d92caba8116e19cb632a425}
       \strng{authorfullhash}{2580df858d92caba8116e19cb632a425}
+      \strng{authorfullhashraw}{2580df858d92caba8116e19cb632a425}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
@@ -329,7 +341,7 @@
       \verb https://www.mdpi.com/2071-1050/10/4/933/pdf
       \endverb
     \endentry
-    \entry{laws2017utility}{article}{}
+    \entry{laws2017utility}{article}{}{}
       \name{author}{5}{}{%
         {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
            family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
@@ -360,10 +372,12 @@
       }
       \strng{namehash}{e87fb14b9520d59781dca6c36dc142c6}
       \strng{fullhash}{e87fb14b9520d59781dca6c36dc142c6}
+      \strng{fullhashraw}{e87fb14b9520d59781dca6c36dc142c6}
       \strng{bibnamehash}{e87fb14b9520d59781dca6c36dc142c6}
       \strng{authorbibnamehash}{e87fb14b9520d59781dca6c36dc142c6}
       \strng{authornamehash}{e87fb14b9520d59781dca6c36dc142c6}
       \strng{authorfullhash}{e87fb14b9520d59781dca6c36dc142c6}
+      \strng{authorfullhashraw}{e87fb14b9520d59781dca6c36dc142c6}
       \field{sortinit}{7}
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
@@ -379,7 +393,7 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0306261916315732
       \endverb
     \endentry
-    \entry{laws2016hydrokinetic}{article}{}
+    \entry{laws2016hydrokinetic}{article}{}{}
       \name{author}{2}{}{%
         {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
            family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
@@ -395,10 +409,12 @@
       }
       \strng{namehash}{5d103d6cd972ae05acdad74b67a0dc86}
       \strng{fullhash}{5d103d6cd972ae05acdad74b67a0dc86}
+      \strng{fullhashraw}{5d103d6cd972ae05acdad74b67a0dc86}
       \strng{bibnamehash}{5d103d6cd972ae05acdad74b67a0dc86}
       \strng{authorbibnamehash}{5d103d6cd972ae05acdad74b67a0dc86}
       \strng{authornamehash}{5d103d6cd972ae05acdad74b67a0dc86}
       \strng{authorfullhash}{5d103d6cd972ae05acdad74b67a0dc86}
+      \strng{authorfullhashraw}{5d103d6cd972ae05acdad74b67a0dc86}
       \field{sortinit}{8}
       \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
@@ -414,7 +430,7 @@
       \verb https://www.sciencedirect.com/science/article/pii/S1364032115015725
       \endverb
     \endentry
-    \entry{gasper2023conf}{inproceedings}{}
+    \entry{gasper2023conf}{inproceedings}{}{}
       \name{author}{6}{}{%
         {{hash=1b1ec292da6bf3c0e17fa40897b9f60f}{%
            family={Gasper},
@@ -450,10 +466,12 @@
       }
       \strng{namehash}{045a294d6d8895d203acb65fbb804f1b}
       \strng{fullhash}{045a294d6d8895d203acb65fbb804f1b}
+      \strng{fullhashraw}{045a294d6d8895d203acb65fbb804f1b}
       \strng{bibnamehash}{045a294d6d8895d203acb65fbb804f1b}
       \strng{authorbibnamehash}{045a294d6d8895d203acb65fbb804f1b}
       \strng{authornamehash}{045a294d6d8895d203acb65fbb804f1b}
       \strng{authorfullhash}{045a294d6d8895d203acb65fbb804f1b}
+      \strng{authorfullhashraw}{045a294d6d8895d203acb65fbb804f1b}
       \field{sortinit}{9}
       \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
@@ -462,7 +480,7 @@
       \field{title}{Optimization of Energy Storage System Economics and Controls by Incorporating Battery Degradation Costs in REopt}
       \field{year}{2023}
     \endentry
-    \entry{mirletz2023impacts}{inproceedings}{}
+    \entry{mirletz2023impacts}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{hash=dd93219dabee6c786afd5e4299ac0e59}{%
            family={Mirletz},
@@ -478,10 +496,12 @@
       }
       \strng{namehash}{5159cbe6edc34c89958322463a1137bc}
       \strng{fullhash}{5159cbe6edc34c89958322463a1137bc}
+      \strng{fullhashraw}{5159cbe6edc34c89958322463a1137bc}
       \strng{bibnamehash}{5159cbe6edc34c89958322463a1137bc}
       \strng{authorbibnamehash}{5159cbe6edc34c89958322463a1137bc}
       \strng{authornamehash}{5159cbe6edc34c89958322463a1137bc}
       \strng{authorfullhash}{5159cbe6edc34c89958322463a1137bc}
+      \strng{authorfullhashraw}{5159cbe6edc34c89958322463a1137bc}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -490,7 +510,7 @@
       \field{title}{\href{https://www.nrel.gov/docs/fy23osti/86194.pdf}{Impacts of Dispatch Strategies and Forecast Errors on the Economics of Behind-the-Meter PV-Battery Systems}}
       \field{year}{2023}
     \endentry
-    \entry{laws2017singularity}{inproceedings}{}
+    \entry{laws2017singularity}{inproceedings}{}{}
       \name{author}{4}{}{%
         {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
            family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
@@ -513,10 +533,12 @@
       }
       \strng{namehash}{0788376242cfbdfddae397fbf7cb7d15}
       \strng{fullhash}{0788376242cfbdfddae397fbf7cb7d15}
+      \strng{fullhashraw}{0788376242cfbdfddae397fbf7cb7d15}
       \strng{bibnamehash}{0788376242cfbdfddae397fbf7cb7d15}
       \strng{authorbibnamehash}{0788376242cfbdfddae397fbf7cb7d15}
       \strng{authornamehash}{0788376242cfbdfddae397fbf7cb7d15}
       \strng{authorfullhash}{0788376242cfbdfddae397fbf7cb7d15}
+      \strng{authorfullhashraw}{0788376242cfbdfddae397fbf7cb7d15}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -531,7 +553,7 @@
       \verb https://arc.aiaa.org/doi/abs/10.2514/6.2017-0095
       \endverb
     \endentry
-    \entry{laws2018naesco}{report}{}
+    \entry{laws2018naesco}{report}{}{}
       \name{author}{1}{}{%
         {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
            family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
@@ -542,10 +564,12 @@
       }
       \strng{namehash}{b30a9bc9e2fd3666a1a566d5f2dd1694}
       \strng{fullhash}{b30a9bc9e2fd3666a1a566d5f2dd1694}
+      \strng{fullhashraw}{b30a9bc9e2fd3666a1a566d5f2dd1694}
       \strng{bibnamehash}{b30a9bc9e2fd3666a1a566d5f2dd1694}
       \strng{authorbibnamehash}{b30a9bc9e2fd3666a1a566d5f2dd1694}
       \strng{authornamehash}{b30a9bc9e2fd3666a1a566d5f2dd1694}
       \strng{authorfullhash}{b30a9bc9e2fd3666a1a566d5f2dd1694}
+      \strng{authorfullhashraw}{b30a9bc9e2fd3666a1a566d5f2dd1694}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -562,7 +586,7 @@
       \verb https://www.osti.gov/servlets/purl/1458716
       \endverb
     \endentry
-    \entry{laws2023stoch}{report}{}
+    \entry{laws2023stoch}{report}{}{}
       \name{author}{8}{}{%
         {{hash=b30a9bc9e2fd3666a1a566d5f2dd1694}{%
            family={\bf{Laws,\bibnamedelimb Nicholas\bibnamedelimb D}},
@@ -608,10 +632,12 @@
       }
       \strng{namehash}{67531b443cfa12672aaf48435dde7b7e}
       \strng{fullhash}{67531b443cfa12672aaf48435dde7b7e}
+      \strng{fullhashraw}{67531b443cfa12672aaf48435dde7b7e}
       \strng{bibnamehash}{67531b443cfa12672aaf48435dde7b7e}
       \strng{authorbibnamehash}{67531b443cfa12672aaf48435dde7b7e}
       \strng{authornamehash}{67531b443cfa12672aaf48435dde7b7e}
       \strng{authorfullhash}{67531b443cfa12672aaf48435dde7b7e}
+      \strng{authorfullhashraw}{67531b443cfa12672aaf48435dde7b7e}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -626,7 +652,7 @@
       \verb https://www.nrel.gov/docs/fy23osti/82005.pdf
       \endverb
     \endentry
-    \entry{murphy2020adapting}{report}{}
+    \entry{murphy2020adapting}{report}{}{}
       \name{author}{10}{}{%
         {{hash=7de50c33549f6af79e5a7fa3eb672195}{%
            family={Murphy},
@@ -682,10 +708,12 @@
       }
       \strng{namehash}{b2e84e023f2d1913d8a5f96102c9619d}
       \strng{fullhash}{b2e84e023f2d1913d8a5f96102c9619d}
+      \strng{fullhashraw}{b2e84e023f2d1913d8a5f96102c9619d}
       \strng{bibnamehash}{b2e84e023f2d1913d8a5f96102c9619d}
       \strng{authorbibnamehash}{b2e84e023f2d1913d8a5f96102c9619d}
       \strng{authornamehash}{b2e84e023f2d1913d8a5f96102c9619d}
       \strng{authorfullhash}{b2e84e023f2d1913d8a5f96102c9619d}
+      \strng{authorfullhashraw}{b2e84e023f2d1913d8a5f96102c9619d}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -700,7 +728,7 @@
       \verb https://www.osti.gov/servlets/purl/1602705
       \endverb
     \endentry
-    \entry{mclaren2018valuing}{report}{}
+    \entry{mclaren2018valuing}{report}{}{}
       \name{author}{4}{}{%
         {{hash=4ed0e5164d57a09d9db812903b9aea1f}{%
            family={McLaren},
@@ -726,10 +754,12 @@
       }
       \strng{namehash}{8d9a16dca5b4778568eb401401af3c24}
       \strng{fullhash}{8d9a16dca5b4778568eb401401af3c24}
+      \strng{fullhashraw}{8d9a16dca5b4778568eb401401af3c24}
       \strng{bibnamehash}{8d9a16dca5b4778568eb401401af3c24}
       \strng{authorbibnamehash}{8d9a16dca5b4778568eb401401af3c24}
       \strng{authornamehash}{8d9a16dca5b4778568eb401401af3c24}
       \strng{authorfullhash}{8d9a16dca5b4778568eb401401af3c24}
+      \strng{authorfullhashraw}{8d9a16dca5b4778568eb401401af3c24}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
